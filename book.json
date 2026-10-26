@@ -1,0 +1,68 @@
+{
+  "title": "Visual Animation Tutorial",
+  "original_title": "آموزش انیمیشن سازی تصویری",
+  "repository": "https://github.com/FarlandGame/Visual-Animation-Tutorial",
+  "project_creators": [
+    {
+      "name": "Bardiya Alizadeh",
+      "persian_name": "بردیا علیزاده",
+      "also_known_as": "Kabir",
+      "artist_name": "Farland_game",
+      "profile": "https://github.com/FarlandGame"
+    },
+    {
+      "name": "Armiya Alizadeh",
+      "persian_name": "ارمیا علیزاده",
+      "also_known_as": "Kabir",
+      "artist_name": "ArmiyaFbix",
+      "youtube": "https://www.youtube.com/@ArmiyaFabix"
+    }
+  ],
+  "persian_edition": {
+    "listed_author": "Bardiya Alizadeh",
+    "publisher": "Motekhassesan Publishing",
+    "editor": "Sahar Ghorbani",
+    "pages": 77,
+    "isbn": "978-622-449-026-1",
+    "cover_colour": "purple",
+    "print_listings": [
+      "https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/",
+      "https://www.digikala.com/product/dkp-20238095/"
+    ],
+    "digital_listing": "https://taaghche.com/book/235981/آموزش-انیمیشن-سازی-تصویری"
+  },
+  "english_edition": {
+    "title": "Visual Animation Tutorial",
+    "status": "forthcoming",
+    "planned_platform": "Amazon",
+    "planned_cover_colour": "yellow",
+    "credits": [
+      "Bardiya Alizadeh",
+      "Armiya Alizadeh"
+    ],
+    "purchase_url": null,
+    "publication_verified": false
+  },
+  "overview_languages": [
+    "en",
+    "ja",
+    "fa",
+    "de",
+    "fr",
+    "es",
+    "pt-BR",
+    "it",
+    "nl",
+    "pl",
+    "uk",
+    "tr",
+    "ru",
+    "zh-CN",
+    "zh-TW",
+    "ko",
+    "hi",
+    "id"
+  ],
+  "full_book_distributed_here": false,
+  "references_checked_on": "2026-10-26"
+}

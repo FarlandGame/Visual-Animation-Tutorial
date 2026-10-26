@@ -1,0 +1,7 @@
+# This repository contains the public book showcase and selected previews.
+*.pdf
+*.doc
+*.docx
+*.zip
+*.tmp
+__pycache__/
