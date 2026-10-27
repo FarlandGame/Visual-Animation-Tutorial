@@ -16,6 +16,18 @@
 
 **Transformer l'envie de créer une animation en une première scène réalisable.** Ce livre présente les possibilités de l'animation, puis accompagne le lecteur dans une démarche pratique guidée par l'image : préparer un personnage, créer des poses, améliorer le mouvement, déplacer la caméra, réutiliser des effets et terminer par le montage et le son. Les principales leçons pratiques utilisent **Stick Nodes**, avec une attention particulière aux premiers pas sur téléphone.
 
+<!-- BOOK_RECOGNITION_START -->
+## Reconnaissance pour l’écriture du livre 🏅
+
+J’ai reçu un certificat de reconnaissance de l’administration de l’Éducation de Maragheh pour avoir écrit Visual Animation Tutorial. Le certificat photographié porte le nom de Bardiya Alizadeh et la date du 1404/09/09 du calendrier hégirien solaire.
+
+> De la première image animée au livre… et maintenant, un certificat dans le journal de quêtes. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Version nettoyée pour la consultation"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Traduction anglaise non officielle"></a></p>
+
+[Lire le certificat et sa traduction](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Photographie originale](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Traduction anglaise non officielle](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## Auteurs et créateurs
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر. [Portfolio GitHub](https://github.com/FarlandGame) · [Chaîne d'animation](https://www.youtube.com/@Farland_animation).

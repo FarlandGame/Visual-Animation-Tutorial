@@ -16,6 +16,18 @@
 
 **علاقه به ساخت انیمیشن را به اولین صحنه‌ای تبدیل کنید که خودتان می‌سازید.** این کتاب ابتدا شما را با دنیای انیمیشن آشنا می‌کند و سپس با آموزش‌های تصویری وارد کار عملی می‌شود: آماده‌کردن کاراکتر، ساخت حالت‌ها، بهترکردن حرکت، جابه‌جایی دوربین، استفادهٔ دوباره از جلوه‌ها و در پایان ادیت و صداگذاری. آموزش‌های عملی اصلی با **Stick Nodes** انجام می‌شوند و بر شروع کار با گوشی تمرکز دارند.
 
+<!-- BOOK_RECOGNITION_START -->
+## تقدیر بابت تألیف کتاب 🏅
+
+برای تألیف کتاب «آموزش انیمیشن سازی تصویری» از مدیریت آموزش و پرورش مراغه تقدیرنامه دریافت کردم. در تصویر این تقدیرنامه، نام بردیا علیزاده و تاریخ ۱۴۰۴/۰۹/۰۹ هجری شمسی آمده است.
+
+> از اولین فریم انیمیشن تا یک کتاب؛ حالا یک تقدیرنامه هم به فهرست مأموریت‌ها اضافه شد! 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="نسخهٔ تمیزشده برای مشاهده"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="ترجمهٔ غیررسمی انگلیسی"></a></p>
+
+[متن تقدیرنامه و ترجمه را بخوانید](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [عکس اصلی](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [ترجمهٔ غیررسمی انگلیسی](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## نویسندگان و پدیدآورندگان
 
 - **بردیا علیزاده، ملقب به کبیر · Farland_game** — Bardiya Alizadeh (Kabir). [رزومهٔ گیت‌هاب](https://github.com/FarlandGame) · [کانال انیمیشن](https://www.youtube.com/@Farland_animation).

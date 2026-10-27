@@ -16,6 +16,18 @@
 
 **애니메이션을 만들고 싶다는 마음을 직접 완성할 수 있는 첫 장면으로 바꿔 보세요.** 이 책은 애니메이션의 여러 가능성을 소개한 뒤, 그림을 따라 실습하는 제작 과정으로 독자를 안내합니다. 캐릭터를 준비하고, 포즈를 만들고, 움직임을 다듬고, 카메라를 움직이고, 효과를 재사용한 다음 편집과 소리로 마무리합니다. 주요 실습에서는 **Stick Nodes**를 사용하며, 휴대전화로 창작을 시작하는 데 초점을 맞춥니다.
 
+<!-- BOOK_RECOGNITION_START -->
+## 도서 집필에 대한 감사장 🏅
+
+Visual Animation Tutorial을 집필한 공로로 마라게 교육행정기관에서 감사장을 받았습니다. 촬영한 감사장에는 Bardiya Alizadeh라는 이름과 이란 태양력 1404/09/09 날짜가 적혀 있습니다.
+
+> 첫 애니메이션 프레임에서 한 권의 책으로, 이제 퀘스트 기록에 감사장도 추가됐습니다. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="보기 좋게 정리한 사본"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="비공식 영어 번역"></a></p>
+
+[감사장과 번역 읽기](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [원본 사진](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [비공식 영어 번역](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## 저자와 창작자
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر. [GitHub 포트폴리오](https://github.com/FarlandGame) · [애니메이션 채널](https://www.youtube.com/@Farland_animation).

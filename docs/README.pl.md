@@ -16,6 +16,18 @@
 
 **Zamień chęć tworzenia animacji w pierwszą scenę, którą naprawdę potrafisz przygotować.** Książka przedstawia możliwości animacji, a następnie prowadzi czytelnika przez praktyczny proces objaśniany ilustracjami: przygotowanie postaci, tworzenie póz, poprawianie ruchu, przemieszczanie kamery, ponowne wykorzystanie efektów oraz końcowy montaż i dźwięk. Główne lekcje praktyczne korzystają ze **Stick Nodes** i skupiają się na rozpoczęciu pracy na telefonie.
 
+<!-- BOOK_RECOGNITION_START -->
+## Uznanie za napisanie książki 🏅
+
+Za napisanie Visual Animation Tutorial otrzymałem dyplom uznania od administracji oświatowej w Maragheh. Na sfotografowanym dyplomie widnieją nazwisko Bardiya Alizadeh oraz data 1404/09/09 według słonecznego kalendarza hidżry.
+
+> Od pierwszej klatki animacji do książki — a teraz także dyplom w dzienniku zadań. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Poprawiona kopia do oglądania"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Nieoficjalne tłumaczenie na angielski"></a></p>
+
+[Przeczytaj dyplom i tłumaczenie](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Oryginalne zdjęcie](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Nieoficjalne tłumaczenie na angielski](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## Autorzy i twórcy
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر. [Portfolio na GitHubie](https://github.com/FarlandGame) · [Kanał o animacji](https://www.youtube.com/@Farland_animation).

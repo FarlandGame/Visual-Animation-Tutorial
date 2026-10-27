@@ -16,6 +16,18 @@
 
 **Maak van de wens om te animeren een eerste scène die je zelf kunt bouwen.** Dit boek laat de mogelijkheden van animatie zien en neemt de lezer vervolgens mee in een praktische werkwijze met beeldende uitleg: bereid een personage voor, maak poses, verbeter bewegingen, verplaats de camera, hergebruik effecten en werk het resultaat af met montage en geluid. De belangrijkste praktijklessen gebruiken **Stick Nodes**, met de nadruk op beginnen op een telefoon.
 
+<!-- BOOK_RECOGNITION_START -->
+## Waardering voor het schrijven van het boek 🏅
+
+Voor het schrijven van Visual Animation Tutorial ontving ik een oorkonde van waardering van de onderwijsdienst van Maragheh. Op de gefotografeerde oorkonde staan de naam Bardiya Alizadeh en de datum 1404/09/09 volgens de Iraanse zonnekalender.
+
+> Van het eerste animatiebeeld naar een boek — en nu ook een oorkonde in het missielogboek. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Opgeknapte weergave"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Onofficiële Engelse vertaling"></a></p>
+
+[Lees de oorkonde en de vertaling](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Originele foto](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Onofficiële Engelse vertaling](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## Auteurs en makers
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر. [GitHub-portfolio](https://github.com/FarlandGame) · [Animatiekanaal](https://www.youtube.com/@Farland_animation).

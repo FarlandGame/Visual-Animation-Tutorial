@@ -1,0 +1,29 @@
+{
+  "title": "Certificate of Appreciation for Authoring a Book",
+  "recipient": "Bardiya Alizadeh",
+  "book": "Visual Animation Tutorial / آموزش انیمیشن سازی تصویری",
+  "issuing_office_as_shown": "معاون مدیرکل و مدیر آموزش و پرورش مراغه",
+  "issuer_english": "Deputy Director-General and Director of Education, Maragheh",
+  "signatory_transcription": "Ali Narimani / علی نریمانی",
+  "date_as_shown": "1404/09/09",
+  "calendar": "Solar Hijri",
+  "reference_number": "See source photograph; uncertain digits not reconstructed",
+  "evidence_basis": "Recipient-supplied photograph, with transcription checked against the source",
+  "original_preserved": true,
+  "cleaned_image_method": "Non-generative perspective correction, paper illumination/white balance, mild unsharp mask; no text retyping or signature redrawing",
+  "english_image_method": "Built-in image generation with reviewed unofficial translation; prominent unofficial label, typed signatory name without handwritten signature",
+  "files": {
+    "certificate-cleaned.jpg": {
+      "bytes": 2528396,
+      "sha256": "62165a43361bf655bc655716a60ae508c02c63488c0865c7a0f40945bc6ebb8f"
+    },
+    "certificate-english-unofficial.png": {
+      "bytes": 2291894,
+      "sha256": "3ad600988f343494093565cfaf09be8e3d943fff1513710cb5b5b1abe9cddf9f"
+    },
+    "certificate-original.jpg": {
+      "bytes": 3193580,
+      "sha256": "dea81c7d4dc3747f9ae09535938e1c4b1cf4c8ff75c4c6010063125129db6c94"
+    }
+  }
+}

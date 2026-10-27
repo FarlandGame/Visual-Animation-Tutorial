@@ -16,6 +16,18 @@
 
 **Animasyon yapma isteğinizi, gerçekten oluşturabileceğiniz ilk sahneye dönüştürün.** Kitap önce animasyonun sunduğu olanakları tanıtır, ardından okuru görsellerle açıklanan uygulamalı bir çalışma sürecine götürür: karakteri hazırlamak, pozlar oluşturmak, hareketi iyileştirmek, kamerayı hareket ettirmek, efektleri yeniden kullanmak ve kurgu ile ses ekleyerek işi tamamlamak. Temel uygulama derslerinde **Stick Nodes** kullanılır ve telefonla başlamaya odaklanılır.
 
+<!-- BOOK_RECOGNITION_START -->
+## Kitap yazarlığı için takdir 🏅
+
+Visual Animation Tutorial kitabını yazdığım için Meraga Eğitim İdaresinden bir takdir belgesi aldım. Fotoğraftaki belgede Bardiya Alizadeh adı ve güneş hicri takvimine göre 1404/09/09 tarihi yer alıyor.
+
+> İlk animasyon karesinden bir kitaba — şimdi görev günlüğüne bir de takdir belgesi eklendi. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Görüntülemek için temizlenmiş kopya"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Resmî olmayan İngilizce çeviri"></a></p>
+
+[Belgeyi ve çevirisini oku](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Orijinal fotoğraf](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Resmî olmayan İngilizce çeviri](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## Yazarlar ve yaratıcılar
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر. [GitHub portfolyosu](https://github.com/FarlandGame) · [Animasyon kanalı](https://www.youtube.com/@Farland_animation).

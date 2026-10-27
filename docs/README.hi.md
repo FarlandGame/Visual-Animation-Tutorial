@@ -16,6 +16,18 @@
 
 **एनीमेशन बनाने की इच्छा को ऐसे पहले दृश्य में बदलें जिसे आप सचमुच ख़ुद बना सकें।** यह पुस्तक पहले एनीमेशन की संभावनाओं से परिचय कराती है, फिर चित्रों की मदद से एक व्यावहारिक प्रक्रिया में ले जाती है: पात्र तैयार करना, मुद्राएँ बनाना, गति सुधारना, कैमरा चलाना, प्रभावों का दोबारा उपयोग करना और अंत में संपादन तथा ध्वनि जोड़ना। मुख्य व्यावहारिक पाठों में **Stick Nodes** का इस्तेमाल होता है और फ़ोन से शुरुआत करने पर ज़ोर दिया गया है।
 
+<!-- BOOK_RECOGNITION_START -->
+## पुस्तक लेखन के लिए सराहना 🏅
+
+Visual Animation Tutorial लिखने के लिए मुझे मरागेह शिक्षा प्रशासन से प्रशंसा-पत्र मिला। तस्वीर में दिख रहे प्रशंसा-पत्र पर Bardiya Alizadeh का नाम और सौर हिजरी कैलेंडर के अनुसार 1404/09/09 की तारीख दर्ज है।
+
+> ऐनिमेशन के पहले फ़्रेम से एक किताब तक — और अब मिशन लॉग में एक प्रशंसा-पत्र भी जुड़ गया। 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="देखने के लिए साफ़ की गई प्रति"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="अनौपचारिक अंग्रेज़ी अनुवाद"></a></p>
+
+[प्रशंसा-पत्र और उसका अनुवाद पढ़ें](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [मूल तस्वीर](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [अनौपचारिक अंग्रेज़ी अनुवाद](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## लेखक और रचनाकार
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر। [GitHub पोर्टफ़ोलियो](https://github.com/FarlandGame) · [एनीमेशन चैनल](https://www.youtube.com/@Farland_animation)।

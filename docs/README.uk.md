@@ -16,6 +16,18 @@
 
 **Перетворіть бажання створювати анімацію на першу сцену, яку ви справді зможете зробити.** Книжка знайомить із можливостями анімації, а потім проводить читача практичним шляхом із наочними поясненнями: підготувати персонажа, створити пози, покращити рух, перемістити камеру, повторно використати ефекти та завершити роботу монтажем і звуком. Основні практичні уроки використовують **Stick Nodes** і зосереджені на тому, як почати працювати на телефоні.
 
+<!-- BOOK_RECOGNITION_START -->
+## Відзнака за написання книги 🏅
+
+За написання Visual Animation Tutorial я отримав подяку від Управління освіти Мараге. На сфотографованій подяці зазначено ім’я Bardiya Alizadeh і дату 1404/09/09 за сонячним календарем хіджри.
+
+> Від першого кадру анімації до книги — а тепер ще й подяка в журналі завдань. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Покращена копія для перегляду"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Неофіційний переклад англійською"></a></p>
+
+[Прочитати подяку та переклад](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Оригінальна фотографія](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Неофіційний переклад англійською](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## Автори й творці
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر. [Портфоліо на GitHub](https://github.com/FarlandGame) · [Канал про анімацію](https://www.youtube.com/@Farland_animation).

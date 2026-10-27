@@ -16,6 +16,18 @@
 
 **把“想做动画”的愿望，变成一个真正能亲手完成的场景。** 本书先介绍动画的各种可能，再带领读者进入有图片指引的实作流程：准备角色、设计姿势、改善动作、移动镜头、重复利用特效，最后进行剪辑和配音。主要实作课程使用 **Stick Nodes**，着重帮助读者从手机开始创作。
 
+<!-- BOOK_RECOGNITION_START -->
+## 图书创作表彰 🏅
+
+我因撰写 Visual Animation Tutorial 获得了 Maragheh 教育行政部门颁发的感谢状。照片中的感谢状写有 Bardiya Alizadeh 的姓名，日期为伊朗太阳历 1404/09/09。
+
+> 从第一帧动画到一本书——现在任务日志里又多了一张感谢状。📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="清晰整理版"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="非官方英文译本"></a></p>
+
+[阅读感谢状及译文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [原始照片](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [非官方英文译本](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## 作者与创作者
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر。[GitHub 作品集](https://github.com/FarlandGame) · [动画频道](https://www.youtube.com/@Farland_animation)。

@@ -16,6 +16,18 @@
 
 **Wujudkan keinginan membuat animasi menjadi adegan pertama yang benar-benar bisa Anda kerjakan.** Buku ini memperkenalkan berbagai kemungkinan dalam animasi, lalu mengajak pembaca mengikuti proses praktis yang dipandu gambar: menyiapkan karakter, membuat pose, memperbaiki gerakan, menggerakkan kamera, menggunakan kembali efek, lalu menyelesaikannya dengan penyuntingan dan suara. Pelajaran praktik utamanya menggunakan **Stick Nodes**, dengan penekanan pada cara mulai berkarya melalui ponsel.
 
+<!-- BOOK_RECOGNITION_START -->
+## Apresiasi atas penulisan buku 🏅
+
+Saya menerima piagam penghargaan dari Administrasi Pendidikan Maragheh atas penulisan Visual Animation Tutorial. Piagam yang difoto mencantumkan nama Bardiya Alizadeh dan tanggal 1404/09/09 menurut kalender Hijriah Syamsiah.
+
+> Dari bingkai animasi pertama menjadi buku — kini ada piagam juga di catatan misi. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Salinan yang dirapikan untuk dilihat"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Terjemahan bahasa Inggris tidak resmi"></a></p>
+
+[Baca piagam dan terjemahannya](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Foto asli](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Terjemahan bahasa Inggris tidak resmi](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## Penulis dan kreator
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر. [Portofolio GitHub](https://github.com/FarlandGame) · [Kanal animasi](https://www.youtube.com/@Farland_animation).

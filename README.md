@@ -16,6 +16,18 @@
 
 **Turn the wish to make an animation into a first scene you can actually build.** This book introduces the possibilities of animation, then brings the reader into a practical, image-guided workflow: prepare a character, create poses, improve motion, move the camera, reuse effects and finish with editing and sound. The main hands-on lessons use **Stick Nodes**, with an emphasis on getting started on a phone.
 
+<!-- BOOK_RECOGNITION_START -->
+## Book-authorship recognition 🏅
+
+I received a certificate of appreciation from the Maragheh Education Administration for authoring Visual Animation Tutorial. The photographed certificate names Bardiya Alizadeh and is dated 1404/09/09 (Solar Hijri).
+
+> From a first animation frame to a book—and a certificate in the quest log. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Cleaned viewing copy"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Unofficial English translation"></a></p>
+
+[Read the certificate and translation](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Original photograph](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Unofficial English translation](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 ## Authors and creators
 
 - **Bardiya Alizadeh (Kabir) · Farland_game** — بردیا علیزاده، ملقب به کبیر. [GitHub portfolio](https://github.com/FarlandGame) · [Animation channel](https://www.youtube.com/@Farland_animation).
