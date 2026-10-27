@@ -38,6 +38,6 @@ Visual Animation Tutorial の執筆に対し、マラーゲの教育行政機関
 
 **文書番号：** 元の写真をご参照ください。
 
-出典となる写真は変更せず保存しています。閲覧用の補正画像を掲載する場合は、構図と明るさを整えたものであり、公的な再発行ではありません。英語の画像には非公式の翻訳であることを明示し、手書きの署名を複製せず、署名者の名前を活字で記しています。
+装飾枠の外側にある印刷用紙の小さな注記も含め、出典写真は変更せず保存しています。閲覧用画像はトリミングし、遠近と明るさを補正したもので、公的な再発行ではありません。英語の画像には非公式の翻訳であることを明示し、手書きの署名を複製せず、署名者の名前を活字で記しています。
 
 [元の写真](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [書籍の紹介に戻る](https://github.com/FarlandGame/Visual-Animation-Tutorial)

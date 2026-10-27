@@ -14,7 +14,7 @@ The recipient supplied this photograph. The Persian original is the source; the 
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="640" alt="Unofficial English translation"></a>
 
-## Unofficial English translation
+## English transcript (unofficial translation)
 
 In the name of the Most High
 
@@ -38,6 +38,6 @@ Deputy Director-General and Director of Education, Maragheh
 
 **Reference number:** see original photograph.
 
-The source photograph is retained unchanged. The viewing image, where provided, corrects framing and lighting; it is not an official digital reissue. The English display is clearly marked as an unofficial translation and uses a typed signatory name rather than reproducing a signature.
+The source photograph is retained unchanged, including the small stationery footer outside the decorative border. The cleaned image is a cropped, perspective- and lighting-corrected viewing copy; it is not an official digital reissue. The English display is clearly marked as an unofficial translation and uses a typed signatory name rather than reproducing a signature.
 
 [Original photograph](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Back to the book showcase](https://github.com/FarlandGame/Visual-Animation-Tutorial)

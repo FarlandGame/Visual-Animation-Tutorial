@@ -25,5 +25,7 @@
       "bytes": 3193580,
       "sha256": "dea81c7d4dc3747f9ae09535938e1c4b1cf4c8ff75c4c6010063125129db6c94"
     }
-  }
+  },
+  "cropped_viewing_copy": true,
+  "uncropped_source_available": "certificate-original.jpg"
 }
