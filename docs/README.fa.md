@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > حتی یک آدمک خطی هم حق دارد با شکوه وارد صحنه شود! امروز اولین ژست، قدم بعدی صحنهٔ کوچک خودت. 📚🎬
+
+[آشنایی با کبیر: داستان من، شروع کار و برنامه‌هایم برای ژاپن](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fa.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="جلد بنفش نسخهٔ فارسی کتاب آموزش انیمیشن سازی تصویری"></a></p>

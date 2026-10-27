@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Até um boneco de palitos merece uma entrada triunfal. Primeiro uma pose; depois, sua própria ceninha. 📚🎬
+
+[Conheça Kabir: minha história, meus primeiros passos criativos e meus planos para o Japão](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.pt-BR.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Capa roxa da edição persa de Visual Animation Tutorial"></a></p>

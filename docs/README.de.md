@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Auch ein Strichmännchen verdient einen großen Auftritt. Erst die erste Pose, dann deine eigene kleine Szene. 📚🎬
+
+[Lerne Kabir kennen: meine Geschichte, kreativen Anfänge und Pläne für Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.de.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Violetter Umschlag der persischen Ausgabe von Visual Animation Tutorial"></a></p>

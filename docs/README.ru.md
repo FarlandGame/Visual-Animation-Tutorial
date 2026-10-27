@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Даже человечек из палочек заслуживает эффектного выхода. Сначала первая поза, затем твоя собственная маленькая сцена. 📚🎬
+
+[Знакомьтесь с Кабиром: моя история, творческие истоки и планы на Японию](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ru.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Фиолетовая обложка персидского издания Visual Animation Tutorial"></a></p>

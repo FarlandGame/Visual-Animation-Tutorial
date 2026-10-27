@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 棒人間だって、かっこよく登場したい！まずは最初のポーズから、次は自分だけの小さなシーンへ。📚🎬
+
+[Kabir の歩み：創作の始まりと日本でかなえたいこと](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ja.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Visual Animation Tutorial ペルシア語版の紫色の表紙"></a></p>

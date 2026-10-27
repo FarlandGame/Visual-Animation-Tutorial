@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Même un bonhomme bâton mérite une entrée spectaculaire. Une première pose, puis votre propre petite scène. 📚🎬
+
+[Rencontrer Kabir : mon histoire, mes débuts créatifs et mes projets pour le Japon](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fr.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Couverture violette de l'édition persane de Visual Animation Tutorial"></a></p>

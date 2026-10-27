@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > डंडियों से बने किरदार की भी शानदार एंट्री होनी चाहिए! पहले एक पोज़, फिर आपका अपना छोटा-सा दृश्य। 📚🎬
+
+[मिलिए Kabir से: मेरी कहानी, रचनात्मक शुरुआत और जापान की योजनाएँ](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.hi.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Visual Animation Tutorial के फ़ारसी संस्करण का बैंगनी आवरण"></a></p>

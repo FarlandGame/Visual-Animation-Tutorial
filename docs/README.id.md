@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Bahkan tokoh stik pun pantas tampil dengan gaya! Mulai dari pose pertama, lalu lanjut ke adegan kecil buatanmu sendiri. 📚🎬
+
+[Kenalan dengan Kabir: kisahku, awal perjalanan kreatif, dan rencana ke Jepang](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.id.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Sampul ungu edisi bahasa Persia Visual Animation Tutorial"></a></p>

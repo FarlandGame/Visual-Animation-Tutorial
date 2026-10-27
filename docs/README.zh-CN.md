@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 就算是火柴人，也值得来个闪亮登场！先摆出第一个姿势，再创作属于你的小场景。📚🎬
+
+[认识 Kabir：我的故事、创作起点与日本计划](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.zh-CN.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Visual Animation Tutorial 波斯语版的紫色封面"></a></p>

@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Ook een stokpoppetje verdient een spectaculaire entree. Eerst een pose, daarna je eigen kleine scène. 📚🎬
+
+[Maak kennis met Kabir: mijn verhaal, creatieve begin en plannen voor Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.nl.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Paarse omslag van de Perzische editie van Visual Animation Tutorial"></a></p>

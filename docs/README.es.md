@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Hasta un muñeco de palitos merece una entrada espectacular. Primero una pose; después, tu propia pequeña escena. 📚🎬
+
+[Conoce a Kabir: mi historia, mis comienzos creativos y mis planes para Japón](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.es.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Cubierta morada de la edición persa de Visual Animation Tutorial"></a></p>

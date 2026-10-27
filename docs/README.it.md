@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Anche un omino stilizzato merita un ingresso spettacolare. Prima una posa, poi una piccola scena tutta tua. 📚🎬
+
+[Conosci Kabir: la mia storia, i miei inizi creativi e i progetti per il Giappone](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.it.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Copertina viola dell'edizione persiana di Visual Animation Tutorial"></a></p>

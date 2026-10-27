@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Навіть намальований паличками персонаж заслуговує на ефектну появу. Спочатку перша поза, а далі — власна маленька сцена. 📚🎬
+
+[Знайомтеся з Кабіром: моя історія, творчі початки та плани щодо Японії](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.uk.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Фіолетова обкладинка перського видання Visual Animation Tutorial"></a></p>

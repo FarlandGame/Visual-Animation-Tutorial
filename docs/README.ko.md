@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 막대 인간도 멋지게 등장할 자격이 있죠! 첫 포즈부터 시작해서 나만의 작은 장면으로 나아가 보세요. 📚🎬
+
+[Kabir를 소개합니다: 나의 이야기, 창작의 시작과 일본에서의 계획](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ko.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Visual Animation Tutorial 페르시아어판의 보라색 표지"></a></p>

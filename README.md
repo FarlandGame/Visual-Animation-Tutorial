@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Even a stick figure deserves a dramatic entrance. First pose today, your own little scene next. 📚🎬
+
+[Meet Kabir: my story, creative beginnings and plans for Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.en.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="assets/persian-cover.jpg" width="340" alt="Purple cover of the Persian edition of Visual Animation Tutorial"></a></p>

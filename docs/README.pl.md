@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Nawet ludzik z kresek zasługuje na efektowne wejście. Najpierw pierwsza poza, potem twoja własna mała scena. 📚🎬
+
+[Poznaj Kabira: moja historia, twórcze początki i plany związane z Japonią](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.pl.md)
 <!-- PLAYFUL_INTRO_END -->
 
 <p align="center"><a href="https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/"><img src="../assets/persian-cover.jpg" width="340" alt="Fioletowa okładka perskiego wydania Visual Animation Tutorial"></a></p>
