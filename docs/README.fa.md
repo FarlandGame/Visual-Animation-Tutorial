@@ -1,9 +1,9 @@
 # Visual Animation Tutorial
 
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/showcase-card.svg" width="600" alt="book"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/showcase-sticker.svg" width="90" alt="book sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/showcase-card.fa.svg" width="600" alt="کتاب آموزش انیمیشن‌سازی تصویری"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/showcase-sticker.fa.svg" width="90" alt="کتاب آموزش انیمیشن‌سازی تصویری"></p>
 
-[← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
+[← Farland_game / رزومه](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->
 
 **آموزش انیمیشن سازی تصویری · راهنمایی تصویری و تمرین‌محور برای شروع ساخت انیمیشن.**
