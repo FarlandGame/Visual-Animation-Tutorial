@@ -1,7 +1,7 @@
 # Visual Animation Tutorial
 
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/showcase-card.svg" width="600" alt="book"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/showcase-sticker.svg" width="90" alt="book sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ru/book.svg" width="600" alt="book"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ru/book-sticker.svg" width="90" alt="book sticker"></p>
 
 [← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->
@@ -29,9 +29,9 @@
 
 > От первого кадра анимации до книги — а теперь ещё и грамота в журнале заданий. 📚✨
 
-<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Улучшенная копия для просмотра"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Неофициальный перевод на английский"></a></p>
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Улучшенная копия для просмотра"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ru.png" width="245" alt="Неофициальный перевод на английский"></a></p>
 
-[Прочитать грамоту и перевод](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Оригинальная фотография](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Неофициальный перевод на английский](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+[Прочитать грамоту и перевод](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ru.md) · [Оригинальная фотография](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Неофициальный перевод на английский](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ru.png)
 <!-- BOOK_RECOGNITION_END -->
 
 ## Авторы и создатели

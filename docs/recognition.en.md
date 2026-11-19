@@ -1,6 +1,6 @@
 # Book-authorship recognition — certificate and translation
 
-[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md)
+[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ru.md)
 
 I received a certificate of appreciation from the Maragheh Education Administration for authoring Visual Animation Tutorial. The photographed certificate names Bardiya Alizadeh and is dated 1404/09/09 (Solar Hijri).
 
@@ -12,7 +12,7 @@ The recipient supplied this photograph. The Persian original is the source; the 
 
 ## Unofficial English translation
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="640" alt="Unofficial English translation"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png" width="640" alt="Unofficial English translation"></a>
 
 ## English transcript (unofficial translation)
 

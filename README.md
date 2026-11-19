@@ -1,5 +1,8 @@
 # Visual Animation Tutorial
 
+<!-- FOUR_LANGUAGE_ENTRY -->
+[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ja.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ru.md)
+
 <!-- PROJECT_VISUAL_HEADER -->
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/showcase-card.svg" width="600" alt="book"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/showcase-sticker.svg" width="90" alt="book sticker"></p>
 

@@ -1,18 +1,18 @@
 # 書籍執筆への表彰 — 感謝状と翻訳
 
-[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md)
+[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ru.md)
 
 Visual Animation Tutorial の執筆に対し、マラーゲの教育行政機関から感謝状をいただきました。撮影した感謝状には Bardiya Alizadeh の名前と、太陽ヒジュラ暦 1404/09/09 の日付が記載されています。
 
-受領者から提供された写真を掲載しています。ペルシア語の原本が出典であり、英語の文章と画像はポートフォリオのために用意した非公式の翻訳です。不鮮明な文書番号は推測して補っていません。
+受領者から提供された写真を掲載しています。ペルシア語の原本が出典であり、翻訳の文章と画像はポートフォリオのために用意した非公式の翻訳です。不鮮明な文書番号は推測して補っていません。
 
 ## 見やすく整えた画像
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="640" alt="見やすく整えた画像"></a>
 
-## 非公式の英訳
+## 非公式の日本語訳
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="640" alt="非公式の英訳"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png" width="640" alt="非公式の日本語訳"></a>
 
 ## 非公式の日本語訳
 
@@ -38,6 +38,6 @@ Visual Animation Tutorial の執筆に対し、マラーゲの教育行政機関
 
 **文書番号：** 元の写真をご参照ください。
 
-装飾枠の外側にある印刷用紙の小さな注記も含め、出典写真は変更せず保存しています。閲覧用画像はトリミングし、遠近と明るさを補正したもので、公的な再発行ではありません。英語の画像には非公式の翻訳であることを明示し、手書きの署名を複製せず、署名者の名前を活字で記しています。
+装飾枠の外側にある印刷用紙の小さな注記も含め、出典写真は変更せず保存しています。閲覧用画像はトリミングし、遠近と明るさを補正したもので、公的な再発行ではありません。翻訳画像には非公式の翻訳であることを明示し、手書きの署名を複製せず、署名者の名前を活字で記しています。
 
 [元の写真](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [書籍の紹介に戻る](https://github.com/FarlandGame/Visual-Animation-Tutorial)

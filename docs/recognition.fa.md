@@ -1,6 +1,6 @@
 # تقدیر بابت تألیف کتاب؛ تصویر لوح و ترجمه
 
-[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md)
+[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ru.md)
 
 برای تألیف کتاب «آموزش انیمیشن سازی تصویری» از مدیریت آموزش و پرورش مراغه تقدیرنامه دریافت کردم. در تصویر این تقدیرنامه، نام بردیا علیزاده و تاریخ ۱۴۰۴/۰۹/۰۹ هجری شمسی آمده است.
 

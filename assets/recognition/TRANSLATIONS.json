@@ -1,0 +1,27 @@
+{
+  "status": "unofficial portfolio translation/transcription",
+  "method": "native vector reading layout, translated from retained source transcription; no signature, seal, ID reconstruction or generative document rewriting",
+  "source_documents_preserved": true,
+  "dates": "Solar Hijri",
+  "national_id": "redacted in public speaking source; omitted from translations",
+  "files": [
+    {
+      "file": "book-translation.en.png",
+      "language": "en",
+      "sha256": "8082fb0eabbd29df6b270601025699a97a761fa4879be7eeac31b547f5d73a6a",
+      "editable": "book-translation.en.svg"
+    },
+    {
+      "file": "book-translation.ja.png",
+      "language": "ja",
+      "sha256": "38b3a146465007e4b94a8e8a63af41e17352a2e26d07b66af76c4ef75294b94b",
+      "editable": "book-translation.ja.svg"
+    },
+    {
+      "file": "book-translation.ru.png",
+      "language": "ru",
+      "sha256": "337b23443b130588ecb6e33b3af401ecc78da226ed8d59b33f8f4ee55799daa5",
+      "editable": "book-translation.ru.svg"
+    }
+  ]
+}
