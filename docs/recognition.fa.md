@@ -1,5 +1,12 @@
 # تقدیر بابت تألیف کتاب؛ تصویر لوح و ترجمه
 
+<!-- DOCUMENT_PAIR_BOOK_START -->
+<table>
+<tr><th>عکس واقعی مدرک · نسخهٔ عمومی</th><th>نسخهٔ خوانای انگلیسی · غیررسمی</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="300" alt="عکس واقعی مدرک · نسخهٔ عمومی"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png" width="300" alt="نسخهٔ خوانای انگلیسی · غیررسمی"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_BOOK_END -->
+
 [English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ru.md)
 
 برای تألیف کتاب «آموزش انیمیشن سازی تصویری» از مدیریت آموزش و پرورش مراغه تقدیرنامه دریافت کردم. در تصویر این تقدیرنامه، نام بردیا علیزاده و تاریخ ۱۴۰۴/۰۹/۰۹ هجری شمسی آمده است.
@@ -8,11 +15,11 @@
 
 ## نسخهٔ تمیزشده برای مشاهده
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="640" alt="نسخهٔ تمیزشده برای مشاهده"></a>
+
 
 ## ترجمهٔ غیررسمی انگلیسی
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="640" alt="ترجمهٔ غیررسمی انگلیسی"></a>
+
 
 ## متن‌خوانی نسخهٔ فارسی
 

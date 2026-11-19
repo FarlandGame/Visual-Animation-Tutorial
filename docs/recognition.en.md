@@ -1,5 +1,12 @@
 # Book-authorship recognition — certificate and translation
 
+<!-- DOCUMENT_PAIR_BOOK_START -->
+<table>
+<tr><th>Original document · public viewing copy</th><th>Unofficial English reading</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="300" alt="Original document · public viewing copy"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png" width="300" alt="Unofficial English reading"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_BOOK_END -->
+
 [English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ru.md)
 
 I received a certificate of appreciation from the Maragheh Education Administration for authoring Visual Animation Tutorial. The photographed certificate names Bardiya Alizadeh and is dated 1404/09/09 (Solar Hijri).
@@ -8,11 +15,11 @@ The recipient supplied this photograph. The Persian original is the source; the 
 
 ## Cleaned viewing copy
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="640" alt="Cleaned viewing copy"></a>
+
 
 ## Unofficial English translation
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png" width="640" alt="Unofficial English translation"></a>
+
 
 ## English transcript (unofficial translation)
 

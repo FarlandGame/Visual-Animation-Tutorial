@@ -1,5 +1,12 @@
 # 書籍執筆への表彰 — 感謝状と翻訳
 
+<!-- DOCUMENT_PAIR_BOOK_START -->
+<table>
+<tr><th>原本の閲覧用画像</th><th>非公式の日本語訳</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="300" alt="原本の閲覧用画像"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png" width="300" alt="非公式の日本語訳"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_BOOK_END -->
+
 [English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ru.md)
 
 Visual Animation Tutorial の執筆に対し、マラーゲの教育行政機関から感謝状をいただきました。撮影した感謝状には Bardiya Alizadeh の名前と、太陽ヒジュラ暦 1404/09/09 の日付が記載されています。
@@ -8,11 +15,11 @@ Visual Animation Tutorial の執筆に対し、マラーゲの教育行政機関
 
 ## 見やすく整えた画像
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="640" alt="見やすく整えた画像"></a>
+
 
 ## 非公式の日本語訳
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png" width="640" alt="非公式の日本語訳"></a>
+
 
 ## 非公式の日本語訳
 
